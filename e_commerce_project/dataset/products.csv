@@ -1,0 +1,121 @@
+product_id,product_name,category,price,supplier,launch_date
+1,Backpack 1,Sports,214.94,Supplier_19,2021-05-22
+2,Keyboard 2,Sports,101.02,Supplier_18,2022-10-13
+3,Sunglasses 3,Home,281.91,Supplier_10,2022-05-17
+4,Laptop Bag 4,Home,164.14,Supplier_20,2022-04-07
+5,Headphones 5,Fashion,476.4,Supplier_5,2022-05-12
+6,Running Shoes 6,Sports,482.28,Supplier_16,2022-06-02
+7,Keyboard 7,Sports,213.66,Supplier_15,2023-05-11
+8,Office Chair 8,Home,50.51,Supplier_8,2021-02-01
+9,Face Cream 9,Electronics,144.68,Supplier_10,2022-07-05
+10,Laptop Bag 10,Sports,287.17,Supplier_16,2023-03-03
+11,Backpack 11,Beauty,65.47,Supplier_9,2021-04-27
+12,Backpack 12,Fashion,275.6,Supplier_2,2023-02-14
+13,Sunglasses 13,Sports,277.71,Supplier_4,2022-03-12
+14,Sunglasses 14,Home,155.88,Supplier_15,2021-02-03
+15,Face Cream 15,Fashion,432.48,Supplier_15,2021-03-31
+16,Smartwatch 16,Home,112.84,Supplier_19,2023-01-26
+17,Sunglasses 17,Fashion,431.91,Supplier_14,2022-09-17
+18,Laptop Bag 18,Beauty,78.23,Supplier_7,2021-07-31
+19,Headphones 19,Beauty,181.9,Supplier_20,2021-10-15
+20,Backpack 20,Home,168.59,Supplier_10,2022-12-22
+21,Face Cream 21,Beauty,141.0,Supplier_17,2023-05-29
+22,T-shirt 22,Electronics,76.44,Supplier_14,2023-02-08
+23,Headphones 23,Fashion,434.85,Supplier_5,2021-05-10
+24,Running Shoes 24,Home,358.58,Supplier_8,2023-04-29
+25,T-shirt 25,Sports,249.83,Supplier_9,2022-08-15
+26,T-shirt 26,Sports,193.83,Supplier_3,2021-03-19
+27,Keyboard 27,Beauty,377.4,Supplier_12,2022-12-13
+28,Office Chair 28,Sports,170.37,Supplier_3,2021-01-03
+29,Sunglasses 29,Sports,321.07,Supplier_12,2022-12-16
+30,Smartwatch 30,Beauty,204.88,Supplier_14,2023-09-19
+31,Running Shoes 31,Sports,141.58,Supplier_10,2023-04-29
+32,Bluetooth Speaker 32,Beauty,293.19,Supplier_16,2022-08-03
+33,Bluetooth Speaker 33,Electronics,32.51,Supplier_15,2022-10-04
+34,Headphones 34,Electronics,465.42,Supplier_15,2021-06-11
+35,Office Chair 35,Electronics,496.0,Supplier_7,2022-03-15
+36,Sunglasses 36,Home,442.25,Supplier_6,2021-11-06
+37,Face Cream 37,Electronics,330.75,Supplier_3,2021-09-14
+38,Bluetooth Speaker 38,Home,35.38,Supplier_10,2022-10-03
+39,Sunglasses 39,Home,220.32,Supplier_4,2021-04-04
+40,Headphones 40,Home,243.64,Supplier_19,2021-05-16
+41,Running Shoes 41,Beauty,343.19,Supplier_1,2021-01-10
+42,Sunglasses 42,Fashion,410.38,Supplier_14,2023-05-31
+43,Sunglasses 43,Home,244.07,Supplier_13,2021-08-23
+44,Smartwatch 44,Electronics,60.57,Supplier_10,2022-01-12
+45,Laptop Bag 45,Sports,389.0,Supplier_5,2023-02-11
+46,T-shirt 46,Home,43.52,Supplier_1,2022-07-31
+47,Yoga Mat 47,Home,225.65,Supplier_7,2023-01-10
+48,T-shirt 48,Home,460.75,Supplier_15,2022-09-23
+49,Running Shoes 49,Electronics,449.33,Supplier_4,2021-05-24
+50,Yoga Mat 50,Sports,182.25,Supplier_11,2022-03-16
+51,Laptop Bag 51,Home,145.71,Supplier_8,2021-03-28
+52,Backpack 52,Beauty,304.0,Supplier_10,2022-09-15
+53,Sunglasses 53,Electronics,425.47,Supplier_10,2022-11-06
+54,Running Shoes 54,Beauty,307.39,Supplier_13,2021-07-13
+55,Face Cream 55,Electronics,394.06,Supplier_8,2023-03-24
+56,Office Chair 56,Sports,65.24,Supplier_20,2022-05-27
+57,Smartwatch 57,Beauty,445.48,Supplier_12,2021-01-13
+58,Bluetooth Speaker 58,Home,199.55,Supplier_19,2023-05-10
+59,Keyboard 59,Fashion,277.71,Supplier_16,2021-06-26
+60,Smartwatch 60,Electronics,297.81,Supplier_9,2021-01-15
+61,Running Shoes 61,Electronics,462.06,Supplier_13,2023-08-30
+62,Backpack 62,Fashion,318.0,Supplier_14,2022-05-29
+63,Keyboard 63,Sports,50.39,Supplier_18,2022-07-04
+64,Yoga Mat 64,Home,145.96,Supplier_3,2021-11-14
+65,Backpack 65,Home,487.41,Supplier_18,2021-06-09
+66,Bluetooth Speaker 66,Sports,297.35,Supplier_3,2023-02-21
+67,Face Cream 67,Sports,367.68,Supplier_8,2023-05-17
+68,Headphones 68,Home,52.24,Supplier_4,2022-03-21
+69,Office Chair 69,Beauty,308.33,Supplier_6,2021-11-13
+70,Smartwatch 70,Electronics,356.87,Supplier_1,2022-12-20
+71,Laptop Bag 71,Sports,476.98,Supplier_17,2022-06-20
+72,Sunglasses 72,Fashion,91.81,Supplier_9,2021-05-10
+73,Sunglasses 73,Electronics,388.0,Supplier_11,2021-01-31
+74,Keyboard 74,Fashion,266.69,Supplier_19,2021-09-27
+75,T-shirt 75,Electronics,253.11,Supplier_12,2022-06-08
+76,Headphones 76,Sports,431.09,Supplier_12,2021-06-20
+77,Laptop Bag 77,Fashion,388.93,Supplier_19,2023-07-05
+78,T-shirt 78,Electronics,121.92,Supplier_1,2022-06-06
+79,Headphones 79,Electronics,129.83,Supplier_12,2022-04-29
+80,Keyboard 80,Home,97.69,Supplier_2,2023-09-11
+81,Backpack 81,Sports,120.01,Supplier_14,2021-09-12
+82,Sunglasses 82,Fashion,142.92,Supplier_19,2021-03-21
+83,Bluetooth Speaker 83,Electronics,256.0,Supplier_2,2023-07-13
+84,Laptop Bag 84,Home,404.13,Supplier_13,2021-02-17
+85,Smartwatch 85,Sports,434.36,Supplier_10,2023-03-04
+86,Bluetooth Speaker 86,Electronics,281.01,Supplier_12,2021-01-09
+87,Running Shoes 87,Fashion,286.27,Supplier_20,2021-11-08
+88,Running Shoes 88,Sports,190.45,Supplier_16,2023-09-23
+89,Running Shoes 89,Beauty,382.64,Supplier_5,2021-09-09
+90,Headphones 90,Sports,21.72,Supplier_12,2022-07-09
+91,T-shirt 91,Electronics,475.99,Supplier_13,2021-01-02
+92,Sunglasses 92,Fashion,60.94,Supplier_8,2022-06-27
+93,Keyboard 93,Sports,480.98,Supplier_5,2023-09-23
+94,Sunglasses 94,Fashion,55.58,Supplier_8,2023-08-02
+95,Backpack 95,Sports,353.41,Supplier_15,2022-01-17
+96,Sunglasses 96,Electronics,294.58,Supplier_5,2022-06-02
+97,T-shirt 97,Sports,46.67,Supplier_2,2022-08-05
+98,Keyboard 98,Home,126.02,Supplier_11,2021-09-25
+99,Keyboard 99,Fashion,165.85,Supplier_8,2021-10-06
+100,Smartwatch 100,Home,76.69,Supplier_19,2023-02-28
+101,Smartwatch 101,Home,61.77,Supplier_15,2022-04-06
+102,Bluetooth Speaker 102,Sports,69.16,Supplier_7,2022-01-02
+103,Office Chair 103,Fashion,237.04,Supplier_4,2023-05-23
+104,Smartwatch 104,Home,405.72,Supplier_20,2021-11-08
+105,Headphones 105,Home,419.6,Supplier_5,2021-12-02
+106,Smartwatch 106,Home,484.52,Supplier_17,2022-02-10
+107,Headphones 107,Fashion,137.48,Supplier_1,2021-06-28
+108,Keyboard 108,Sports,282.42,Supplier_8,2022-07-18
+109,Smartwatch 109,Sports,59.93,Supplier_5,2023-03-24
+110,Smartwatch 110,Electronics,40.22,Supplier_8,2023-03-11
+111,Laptop Bag 111,Home,413.6,Supplier_3,2022-01-17
+112,Yoga Mat 112,Beauty,136.82,Supplier_3,2023-04-13
+113,Headphones 113,Electronics,106.9,Supplier_15,2022-10-24
+114,Laptop Bag 114,Electronics,453.49,Supplier_11,2023-04-30
+115,Smartwatch 115,Electronics,471.72,Supplier_6,2021-02-21
+116,Yoga Mat 116,Sports,412.63,Supplier_16,2022-02-09
+117,Headphones 117,Sports,344.77,Supplier_12,2021-06-26
+118,Running Shoes 118,Home,144.74,Supplier_5,2022-04-02
+119,Headphones 119,Beauty,313.4,Supplier_10,2021-09-09
+120,Office Chair 120,Sports,442.56,Supplier_2,2022-05-06
